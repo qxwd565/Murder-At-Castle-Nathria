@@ -30,11 +30,34 @@ jobs:
           python /tmp/convert-to-dates-v1.py --root . --strict
           python /tmp/convert-to-dates-v1.py --root . --strict --check
           git diff --check
+      - name: Validate Castle Nathria, Prince Renathal and Maw mini-set playable dates
+        run: |
+          python - <<'PYRELEASE'
+          import json
+          from pathlib import Path
+          catalog=Path("cards.json")
+          d=json.loads(catalog.read_text(encoding="utf-8"))
+          if len(d.get("cards",[]))!=227: raise SystemExit("Inventory count changed")
+          for c in d["cards"]:
+              history=json.loads((Path("data")/(c["id"]+".json")).read_text(encoding="utf-8"))
+              days=sorted(k for k in history if len(k)==10 and k[4]=="-" and k[7]=="-")
+              if not days: raise SystemExit("No date "+c["id"])
+              initial=history[days[0]]
+              if initial.get("id")!=c["id"] or initial.get("dbfId")!=c["dbfId"]: raise SystemExit("Wrong id/dbfId "+c["id"])
+              expected=("2022-06-28" if c["id"]=="REV_018" else
+                        "2022-09-28" if c["id"].startswith("MAW_") else
+                        "2022-08-03" if c["id"].startswith("REV_") else None)
+              if days[0]!=expected: raise SystemExit("Unexpected playable date "+c["id"]+" "+days[0]+" expected "+str(expected))
+              if c.get("releasedAt") not in (None,days[0]): raise SystemExit("Preexisting conflict "+c["id"])
+              c["releasedAt"]=days[0]
+              c["releaseStatus"]="verified"
+          catalog.write_text(json.dumps(d,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+          PYRELEASE
       - name: Commit dated card JSON only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -u -- data/
+          git add -u -- data/ cards.json
           if ! git diff --cached --quiet; then
             git commit -m 'Convert Murder-At-Castle-Nathria card history to dates-v1 [skip ci]'
             git push origin HEAD:main
