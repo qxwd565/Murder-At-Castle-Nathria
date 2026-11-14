@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_931","dbfId":77296,"name":"정복자의 깃발","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":2,"text":"각 플레이어의 덱에서 카드를 공개해 내 것의 비용이 더 높으면, 그 카드를 뽑습니다. 3번 발동합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"올그라, 깃발 정말 예쁘네요. 대체 어디서 구하셨나요?","spellSchool":"","portrait":"HS26-174_S.tif:2d2406e78cf3409d8de18c0767b8ca8b","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":3,"name":"효과 수치 2","value":10},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_931.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-174_S.tif:2d2406e78cf3409d8de18c0767b8ca8b","goldenMaterial":"REV_931_PremiumCard.mat:4ad41458b1488ca4ea7fd3b55a5c38c5","goldenAnimation":"REV_931_PremiumCard.asset:b35b2a4d59f59cd44aeeece970732921"}}
+{
+  "2022-08-03": {
+    "id": "REV_931",
+    "dbfId": 77296,
+    "name": "정복자의 깃발",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "각 플레이어의 덱에서 카드를 공개해 내 것의 비용이 더 높으면, 그 카드를 뽑습니다. 3번 발동합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "올그라, 깃발 정말 예쁘네요. 대체 어디서 구하셨나요?",
+    "spellSchool": "",
+    "portrait": "HS26-174_S.tif:2d2406e78cf3409d8de18c0767b8ca8b",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 3,
+        "name": "효과 수치 2",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_931.png"
+  }
+}

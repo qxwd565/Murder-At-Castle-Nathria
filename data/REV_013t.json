@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_013t","dbfId":79561,"name":"돌숨결 고발자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":5,"text":"<b>주입됨</b>\n<b>전투의 함성:</b>\n피해를 5 줍니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-081_M.tif:1bb8dfa3189a41cf9e1d1acc54316e00","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":2457,"name":"주입 완료","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_013t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-081_M.tif:1bb8dfa3189a41cf9e1d1acc54316e00","goldenMaterial":"REV_013t_PremiumCard.mat:397f11bd12c3a954393252d7f04767ac","goldenAnimation":"REV_013t_PremiumCard.asset:e13a886e2d26452499e454fe84ebecb1"}}
+{
+  "2022-08-03": {
+    "id": "REV_013t",
+    "dbfId": 79561,
+    "name": "돌숨결 고발자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>주입됨</b><br></br><b>전투의 함성:</b><br></br>피해를 5 줍니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-081_M.tif:1bb8dfa3189a41cf9e1d1acc54316e00",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_013t.png"
+  }
+}

@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_025b","dbfId":79759,"name":"무죄!","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":2,"text":"이번 턴에 하수인에게\n<b>면역</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-207_S.tif:c0dec6d6b3564d16b565aeed00c695d0","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":240,"name":"면역","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_025b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-207_S.tif:c0dec6d6b3564d16b565aeed00c695d0","goldenMaterial":"MAW_025b_PremiumCard.mat:3e6591b8655a475429193627d36a9072","goldenAnimation":"MAW_025b_PremiumCard.asset:27dd974abaa261b45b257898ba48d5c8"}}
+{
+  "2022-09-28": {
+    "id": "MAW_025b",
+    "dbfId": 79759,
+    "name": "무죄!",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 2,
+    "text": "이번 턴에 하수인에게<br></br><b>면역</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-207_S.tif:c0dec6d6b3564d16b565aeed00c695d0",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_025b.png"
+  }
+}

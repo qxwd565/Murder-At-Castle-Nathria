@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_019","dbfId":79608,"name":"살인 고발","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":2,"text":"하수인을 선택합니다. 다른 적 하수인이 죽은 후에, 그 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"살해당한 피해자의 말입니다. \"그래서? 날 죽이기라도 하려고?\"","spellSchool":"","portrait":"HS26-223_S.tif:0509128c79834c37bddf18d7c9001275","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_019.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-223_S.tif:0509128c79834c37bddf18d7c9001275","goldenMaterial":"MAW_019_PremiumCard.mat:728178c2ca638564483e9b794acf8ea4","goldenAnimation":"MAW_019_PremiumCard.asset:04150796ab5169446ba4e28f6f25222b"}}
+{
+  "2022-09-28": {
+    "id": "MAW_019",
+    "dbfId": 79608,
+    "name": "살인 고발",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인을 선택합니다. 다른 적 하수인이 죽은 후에, 그 하수인을 처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "살해당한 피해자의 말입니다. \"그래서? 날 죽이기라도 하려고?\"",
+    "spellSchool": "",
+    "portrait": "HS26-223_S.tif:0509128c79834c37bddf18d7c9001275",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_019.png"
+  }
+}

@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_945","dbfId":77714,"name":"수상한 이방인","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 다른 직업의 비밀을 <b>발견</b>합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"누구냐, 너.","spellSchool":"","portrait":"HS26-073_M.tif:25a1ec9aabd8424db1b6e74a705a164c","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_945.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-073_M.tif:25a1ec9aabd8424db1b6e74a705a164c","goldenMaterial":"REV_945_PremiumCard.mat:072ea298c460af54ba885663a3737c81","goldenAnimation":"REV_945_PremiumCard.asset:447b2d47210e8e743bdf58882b09038e"}}
+{
+  "2022-08-03": {
+    "id": "REV_945",
+    "dbfId": 77714,
+    "name": "수상한 이방인",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 다른 직업의 비밀을 <b>발견</b>합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "누구냐, 너.",
+    "spellSchool": "",
+    "portrait": "HS26-073_M.tif:25a1ec9aabd8424db1b6e74a705a164c",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_945.png"
+  }
+}

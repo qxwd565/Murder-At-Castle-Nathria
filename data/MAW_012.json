@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_012","dbfId":79593,"name":"지옥 탈옥","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":5,"text":"이번 게임에서 죽은\n아군 악마를 부활시킵니다.\n<b>주입 (악마 3):</b> 대신 아군\n악마 셋을 부활시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"창살을 더 촘촘히 만들었어야 했을지도...","spellSchool":"FEL","portrait":"HS26-200_S.tif:e7e1879ac3e8466d8755b514fcbd2d23","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":79595},{"id":1635,"name":"주문 속성","value":7},{"id":1719,"name":"변신 원본 시각 효과","value":2},{"id":1824,"name":"미니 세트","value":1},{"id":2432,"name":"게임 태그 2432","value":1},{"id":2456,"name":"주입","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_012.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-200_S.tif:e7e1879ac3e8466d8755b514fcbd2d23","goldenMaterial":"MAW_012_PremiumCard.mat:4e3fbb9589612c940a7b9eca8f27e951","goldenAnimation":"MAW_012_PremiumCard.asset:29edaf6c305596c4fa21536d83c6a402"}}
+{
+  "2022-09-28": {
+    "id": "MAW_012",
+    "dbfId": 79593,
+    "name": "지옥 탈옥",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "이번 게임에서 죽은<br></br>아군 악마를 부활시킵니다.<br></br><b>주입 (악마 3):</b> 대신 아군<br></br>악마 셋을 부활시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "창살을 더 촘촘히 만들었어야 했을지도...",
+    "spellSchool": "FEL",
+    "portrait": "HS26-200_S.tif:e7e1879ac3e8466d8755b514fcbd2d23",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 79595
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2432,
+        "name": "게임 태그 2432",
+        "value": 1
+      },
+      {
+        "id": 2456,
+        "name": "주입",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_012.png"
+  }
+}

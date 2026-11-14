@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_018","dbfId":79767,"name":"왕자 레나탈","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"내 덱의 카드 한도와\n내 영웅의 시작 생명력이\n40이 됩니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"아이들에게 반항기가 오는 건 흔한 일이지만, 왕자 레나탈의 반항기는 남달랐지요.","spellSchool":"","portrait":"HS26-098_M.tif:375a3b2c28d846bf9da1286798452bf9","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":997,"name":"덱 구성 카드 수 변경","value":40},{"id":2589,"name":"간판 카드 존재","value":1},{"id":2936,"name":"게임 태그 2936","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_018.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-098_M.tif:375a3b2c28d846bf9da1286798452bf9","goldenMaterial":"REV_018_PremiumCard.mat:9cb2c8acced9c264695f2ec9f5dc75b3","goldenAnimation":"REV_018_PremiumCard.asset:2cc69751a4097db459cc4a3bdc4f29e6"}}
+{
+  "2022-06-28": {
+    "id": "REV_018",
+    "dbfId": 79767,
+    "name": "왕자 레나탈",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 덱의 카드 한도와<br></br>내 영웅의 시작 생명력이<br></br>40이 됩니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "아이들에게 반항기가 오는 건 흔한 일이지만, 왕자 레나탈의 반항기는 남달랐지요.",
+    "spellSchool": "",
+    "portrait": "HS26-098_M.tif:375a3b2c28d846bf9da1286798452bf9",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 997,
+        "name": "덱 구성 카드 수 변경",
+        "value": 40
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_018.png"
+  }
+}

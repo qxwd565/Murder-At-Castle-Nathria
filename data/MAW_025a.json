@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_025a","dbfId":79758,"name":"유죄!","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":2,"text":"하수인을 <b>침묵</b>시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-206_S.tif:f9fdf6f721c14ec9a5cdae391ecf01e3","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":339,"name":"침묵","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_025a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-206_S.tif:f9fdf6f721c14ec9a5cdae391ecf01e3","goldenMaterial":"MAW_025a_PremiumCard.mat:cc3fa89f55f4cce4ebc4b37220e822ad","goldenAnimation":"MAW_025a_PremiumCard.asset:3a4f166f60c99364ba49ce0855208b77"}}
+{
+  "2022-09-28": {
+    "id": "MAW_025a",
+    "dbfId": 79758,
+    "name": "유죄!",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 2,
+    "text": "하수인을 <b>침묵</b>시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-206_S.tif:f9fdf6f721c14ec9a5cdae391ecf01e3",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 339,
+        "name": "침묵",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_025a.png"
+  }
+}

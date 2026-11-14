@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_013","dbfId":79559,"name":"돌숨결 고발자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>주입 (5):</b> \"<b>전투의 함성:</b> 피해를 5 줌\" 능력을 얻습니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"\"저 녀석들 짓이야. 내가 봤어!\"","spellSchool":"","portrait":"HS26-080_M.tif:fe76623dd126490d9ae234122840e4b5","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":5},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":79561},{"id":1719,"name":"변신 원본 시각 효과","value":2},{"id":2456,"name":"주입","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_013.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-080_M.tif:fe76623dd126490d9ae234122840e4b5","goldenMaterial":"REV_013_PremiumCard.mat:fc2bfb896014e7d41bce3e4d9690f49d","goldenAnimation":"REV_013_PremiumCard.asset:a512aea639297734aaf8625702e4b5c3"}}
+{
+  "2022-08-03": {
+    "id": "REV_013",
+    "dbfId": 79559,
+    "name": "돌숨결 고발자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>주입 (5):</b> \"<b>전투의 함성:</b> 피해를 5 줌\" 능력을 얻습니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"저 녀석들 짓이야. 내가 봤어!\"",
+    "spellSchool": "",
+    "portrait": "HS26-080_M.tif:fe76623dd126490d9ae234122840e4b5",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 5
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 79561
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 2
+      },
+      {
+        "id": 2456,
+        "name": "주입",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_013.png"
+  }
+}

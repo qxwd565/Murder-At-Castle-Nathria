@@ -1,1 +1,97 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_906","dbfId":75881,"name":"대영주 데나트리우스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":10,"text":"<b>생명력 흡수</b>, <b>전투의 함성:</b>\n모든 적에게 5의 피해를\n무작위로 나누어 입힙니다.\n<b>끝없는 주입 (2):</b> 피해를 1 더 나누어 입힙니다.","attack":10,"health":10,"durability":0,"armor":0,"flavor":"벤티르는 억울할 겁니다. 대영주 데나트리우스와 똑 닮아 오해를 많이 받았을 테니까요.","spellSchool":"","portrait":"HS26-099_M.tif:82dc3415ecf54191b04db9663af27ed5","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":3,"name":"효과 수치 2","value":5},{"id":45,"name":"생명력","value":10},{"id":47,"name":"공격력","value":10},{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":77222},{"id":2456,"name":"주입","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_906.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-099_M.tif:82dc3415ecf54191b04db9663af27ed5","goldenMaterial":"REV_906_PremiumCard.mat:e6f9923e96a032b468bd67838be9028c","goldenAnimation":"REV_906_PremiumCard.asset:5b0a9abcc15f0634ea560e59977fdddb"}}
+{
+  "2022-08-03": {
+    "id": "REV_906",
+    "dbfId": 75881,
+    "name": "대영주 데나트리우스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>생명력 흡수</b>, <b>전투의 함성:</b><br></br>모든 적에게 5의 피해를<br></br>무작위로 나누어 입힙니다.<br></br><b>끝없는 주입 (2):</b> 피해를 1 더 나누어 입힙니다.",
+    "attack": 10,
+    "health": 10,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "벤티르는 억울할 겁니다. 대영주 데나트리우스와 똑 닮아 오해를 많이 받았을 테니까요.",
+    "spellSchool": "",
+    "portrait": "HS26-099_M.tif:82dc3415ecf54191b04db9663af27ed5",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 3,
+        "name": "효과 수치 2",
+        "value": 5
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 77222
+      },
+      {
+        "id": 2456,
+        "name": "주입",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_906.png"
+  }
+}

@@ -1,1 +1,75 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_957t","dbfId":79536,"name":"멀로큘라","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":0,"text":"<b>주입됨</b>\n<b>생명력 흡수</b>","attack":3,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-077_M.tif:fb56bbed492a4d2da9b94ce5fa3e4db8","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":2457,"name":"주입 완료","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","MURLOC"],"race":"언데드, 멀록","classes":[],"art":"art/REV_957t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-077_M.tif:fb56bbed492a4d2da9b94ce5fa3e4db8","goldenMaterial":"REV_957t_PremiumCard.mat:9d21080cd6f22734695176ee8d6f0baf","goldenAnimation":"REV_957t_PremiumCard.asset:deaca7d4f42fab048abe5c3def053948"}}
+{
+  "2022-08-03": {
+    "id": "REV_957t",
+    "dbfId": 79536,
+    "name": "멀로큘라",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 0,
+    "text": "<b>주입됨</b><br></br><b>생명력 흡수</b>",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-077_M.tif:fb56bbed492a4d2da9b94ce5fa3e4db8",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "race": "언데드, 멀록",
+    "classes": [],
+    "art": "art/REV_957t.png"
+  }
+}

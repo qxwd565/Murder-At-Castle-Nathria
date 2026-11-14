@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_253","dbfId":77368,"name":"신원 도용","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":3,"text":"상대편의 손과 덱에서 카드를 <b>발견</b>해서 복사해옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"신원 도용이 장난이야?","spellSchool":"SHADOW","portrait":"HS26-146_S.tif:d7f7e871a1df45e4a8013daddf9c42ed","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/REV_253.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-146_S.tif:d7f7e871a1df45e4a8013daddf9c42ed","goldenMaterial":"REV_253_PremiumCard.mat:b152464dc7cc885449b88289a6e7a2f2","goldenAnimation":"REV_253_PremiumCard.asset:3016a7b4986003c4ea7a87756edd69e9"}}
+{
+  "2022-08-03": {
+    "id": "REV_253",
+    "dbfId": 77368,
+    "name": "신원 도용",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "상대편의 손과 덱에서 카드를 <b>발견</b>해서 복사해옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "신원 도용이 장난이야?",
+    "spellSchool": "SHADOW",
+    "portrait": "HS26-146_S.tif:d7f7e871a1df45e4a8013daddf9c42ed",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_253.png"
+  }
+}

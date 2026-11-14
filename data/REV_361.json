@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_361","dbfId":78416,"name":"야생 영혼","type":"SPELL","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":3,"text":"<b>휴면</b> 상태인 서로 다른 야생씨앗을 둘 소환합니다.\n내 야생씨앗들이 1턴 일찍 깨어나게 합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"야생 가기 전까지만 정규 영혼으로 이름을 바꿔 부를까요?","spellSchool":"NATURE","portrait":"HS26-020_S.tif:00b66bd252374efaa5be79b4fb1fba89","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1518,"name":"휴면","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/REV_361.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-020_S.tif:00b66bd252374efaa5be79b4fb1fba89","goldenMaterial":"REV_361_PremiumCard.mat:de109c8cdb724c04bafb2936a5346737","goldenAnimation":"REV_361_PremiumCard 1.asset:1b493d315ecfc7843ac7ece5c44db9a6"}}
+{
+  "2022-08-03": {
+    "id": "REV_361",
+    "dbfId": 78416,
+    "name": "야생 영혼",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>휴면</b> 상태인 서로 다른 야생씨앗을 둘 소환합니다.<br></br>내 야생씨앗들이 1턴 일찍 깨어나게 합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "야생 가기 전까지만 정규 영혼으로 이름을 바꿔 부를까요?",
+    "spellSchool": "NATURE",
+    "portrait": "HS26-020_S.tif:00b66bd252374efaa5be79b4fb1fba89",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_361.png"
+  }
+}

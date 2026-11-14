@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_373","dbfId":79111,"name":"귀부인 다크베인","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 2/1 그림자를 둘 소환합니다. 각 그림자는 내가 마지막으로 시전한 암흑 주문을 시전하는 <b>죽음의 메아리</b>를 얻습니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"령이 있는 자들이 더하다는 말 그대로입니다.","spellSchool":"","portrait":"HS26-170_M.tif:d585f7f11050402d93cb115fb543a260","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":79311}],"races":[],"race":"","classes":[],"art":"art/REV_373.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-170_M.tif:d585f7f11050402d93cb115fb543a260","goldenMaterial":"REV_373_PremiumCard.mat:61f3be527b76fe64eb865712af1b52ce","goldenAnimation":"REV_373_PremiumCard.asset:3cba33ba1a96724488b8730848816b20"}}
+{
+  "2022-08-03": {
+    "id": "REV_373",
+    "dbfId": 79111,
+    "name": "귀부인 다크베인",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 2/1 그림자를 둘 소환합니다. 각 그림자는 내가 마지막으로 시전한 암흑 주문을 시전하는 <b>죽음의 메아리</b>를 얻습니다.",
+    "attack": 3,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "령이 있는 자들이 더하다는 말 그대로입니다.",
+    "spellSchool": "",
+    "portrait": "HS26-170_M.tif:d585f7f11050402d93cb115fb543a260",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 79311
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_373.png"
+  }
+}

@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_958t","dbfId":78390,"name":"뷔페 거물","type":"MINION","cardClass":"PALADIN","rarity":"COMMON","collectible":false,"cost":4,"text":"<b>주입됨</b>\n<b>전투의 함성:</b> 은빛 성기사단 신병을\n2명 소환합니다. 그 신병들에게\n공격력 +2와 <b>천상의 보호막</b>을\n부여합니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-032_M.tif:130c5828a2c14e63812d5c0925be124f","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":2457,"name":"주입 완료","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_958t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-032_M.tif:130c5828a2c14e63812d5c0925be124f","goldenMaterial":"REV_958t_PremiumCard.mat:aa81f5997ead8aa46ac6e9ad22cfcd1f","goldenAnimation":"REV_958t_PremiumCard.asset:5c27d83689df05d43b98535b8aed4aa5"}}
+{
+  "2022-08-03": {
+    "id": "REV_958t",
+    "dbfId": 78390,
+    "name": "뷔페 거물",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>주입됨</b><br></br><b>전투의 함성:</b> 은빛 성기사단 신병을<br></br>2명 소환합니다. 그 신병들에게<br></br>공격력 +2와 <b>천상의 보호막</b>을<br></br>부여합니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-032_M.tif:130c5828a2c14e63812d5c0925be124f",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_958t.png"
+  }
+}

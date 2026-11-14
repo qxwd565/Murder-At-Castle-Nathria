@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_956t","dbfId":78436,"name":"절명의 사제","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":2,"text":"<b>주입됨</b>\n<b>도발</b>","attack":4,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-180_M.tif:4ad5f5a36630480882dcc385dcc4ac55","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":2457,"name":"주입 완료","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_956t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-180_M.tif:4ad5f5a36630480882dcc385dcc4ac55","goldenMaterial":"REV_956t_PremiumCard.mat:cd167652a60dfc440aaff2c57dd19f6c","goldenAnimation":"REV_956t_PremiumCard.asset:1d36855a1a6783749ab81ab3f7f52638"}}
+{
+  "2022-08-03": {
+    "id": "REV_956t",
+    "dbfId": 78436,
+    "name": "절명의 사제",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>주입됨</b><br></br><b>도발</b>",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-180_M.tif:4ad5f5a36630480882dcc385dcc4ac55",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_956t.png"
+  }
+}

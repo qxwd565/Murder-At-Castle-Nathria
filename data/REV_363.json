@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_363","dbfId":78419,"name":"아라론","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> <b>휴면</b> 상태인\n모든 종류의 야생씨앗을\n하나씩 소환합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"야생씨앗 하나씩 다 주세요!","spellSchool":"","portrait":"HS26-021_M.tif:d101dd3ecb7c4da6959d1358777b4025","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1518,"name":"휴면","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_363.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-021_M.tif:d101dd3ecb7c4da6959d1358777b4025","goldenMaterial":"REV_363_PremiumCard.mat:a6f83e3aa8cef19459a71cabca52bb60","goldenAnimation":"REV_363_PremiumCard 1.asset:fbcdb5228e41228438d868e8267b4f15"}}
+{
+  "2022-08-03": {
+    "id": "REV_363",
+    "dbfId": 78419,
+    "name": "아라론",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> <b>휴면</b> 상태인<br></br>모든 종류의 야생씨앗을<br></br>하나씩 소환합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "야생씨앗 하나씩 다 주세요!",
+    "spellSchool": "",
+    "portrait": "HS26-021_M.tif:d101dd3ecb7c4da6959d1358777b4025",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_363.png"
+  }
+}

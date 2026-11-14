@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_938","dbfId":77556,"name":"어둠의 문","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":1,"text":"주문을 뽑습니다.\n<b>주입 (2):</b> 그 카드를 <b>일시적</b>인 카드로 복사하여 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"어둠의 문 들어갈 때 신발 벗는 거 맞아요^^","spellSchool":"SHADOW","portrait":"HS26-155_S.tif:c29c34793a6b4efe96ea38b5fa0d48de","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":80814},{"id":1635,"name":"주문 속성","value":6},{"id":1719,"name":"변신 원본 시각 효과","value":2},{"id":2456,"name":"주입","value":1},{"id":3630,"name":"게임 태그 3630","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_938.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-155_S.tif:c29c34793a6b4efe96ea38b5fa0d48de","goldenMaterial":"REV_938_PremiumCard.mat:62cd6da5898bde94c944e1b6e131a5de","goldenAnimation":"REV_938_PremiumCard.asset:1415cd6b1b0d728428581d33ac118455"}}
+{
+  "2022-08-03": {
+    "id": "REV_938",
+    "dbfId": 77556,
+    "name": "어둠의 문",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "주문을 뽑습니다.<br></br><b>주입 (2):</b> 그 카드를 <b>일시적</b>인 카드로 복사하여 내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "어둠의 문 들어갈 때 신발 벗는 거 맞아요^^",
+    "spellSchool": "SHADOW",
+    "portrait": "HS26-155_S.tif:c29c34793a6b4efe96ea38b5fa0d48de",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 80814
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 2
+      },
+      {
+        "id": 2456,
+        "name": "주입",
+        "value": 1
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_938.png"
+  }
+}

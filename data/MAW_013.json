@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_013","dbfId":79596,"name":"종신형","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":4,"text":"하수인을 게임에서 제거합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"모두에게 행복한 결말을 가져다주길.","spellSchool":"","portrait":"HS26-214_S.tif:b3237d768b9142fe9da57237feaeb5f5","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_013.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-214_S.tif:b3237d768b9142fe9da57237feaeb5f5","goldenMaterial":"MAW_013_PremiumCard.mat:7a5b932e90ab22c4c8c1d24b3a73543f","goldenAnimation":"MAW_013_PremiumCard.asset:b7a9a2b6314d6f74cba448057b494662"}}
+{
+  "2022-09-28": {
+    "id": "MAW_013",
+    "dbfId": 79596,
+    "name": "종신형",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "하수인을 게임에서 제거합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "모두에게 행복한 결말을 가져다주길.",
+    "spellSchool": "",
+    "portrait": "HS26-214_S.tif:b3237d768b9142fe9da57237feaeb5f5",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_013.png"
+  }
+}

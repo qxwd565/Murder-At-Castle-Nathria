@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_010t","dbfId":79785,"name":"개선된 요청 거부","type":"SPELL","cardClass":"HUNTER","collectible":false,"cost":2,"text":"<b>비밀:</b> 상대편이\n한 턴에 카드를 3장\n낸 후에, 적 영웅에게 피해를 $9 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-209_S.tif:7fe18ddca1db4ac9baafa90606418ecd","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":219,"name":"비밀","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_010t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-209_S.tif:7fe18ddca1db4ac9baafa90606418ecd","goldenMaterial":"MAW_010_PremiumCard.mat:5df4f2ff1ed3b574db4ba48faf0d876d","goldenAnimation":"MAW_010_PremiumCard.asset:c0a8518c422e61d46b20b9fc99750453"}}
+{
+  "2022-09-28": {
+    "id": "MAW_010t",
+    "dbfId": 79785,
+    "name": "개선된 요청 거부",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>비밀:</b> 상대편이<br></br>한 턴에 카드를 3장<br></br>낸 후에, 적 영웅에게 피해를 $9 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-209_S.tif:7fe18ddca1db4ac9baafa90606418ecd",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_010t.png"
+  }
+}

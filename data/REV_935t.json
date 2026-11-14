@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_935t","dbfId":78524,"name":"파티 답례용 토템","type":"MINION","cardClass":"SHAMAN","rarity":"RARE","collectible":false,"cost":3,"text":"<b>주입됨</b>\n내 턴이 끝날 때,\n무작위 기본 토템을 둘 소환합니다.","attack":0,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-053_M.tif:61b8aa65967149108d8fd1d305bf6fce","set":"REVENDRETH","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":21},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":2457,"name":"주입 완료","value":1}],"races":["TOTEM"],"race":"토템","classes":[],"art":"art/REV_935t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-053_M.tif:61b8aa65967149108d8fd1d305bf6fce","goldenMaterial":"REV_935t_PremiumCard.mat:61fff0bd4dbbe4443abe2d46accc1ee6","goldenAnimation":"REV_935t_PremiumCard.asset:faf4cbc5c49e0ac4e8cd9c4728a9faed"}}
+{
+  "2022-08-03": {
+    "id": "REV_935t",
+    "dbfId": 78524,
+    "name": "파티 답례용 토템",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>주입됨</b><br></br>내 턴이 끝날 때,<br></br>무작위 기본 토템을 둘 소환합니다.",
+    "attack": 0,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-053_M.tif:61b8aa65967149108d8fd1d305bf6fce",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 21
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [
+      "TOTEM"
+    ],
+    "race": "토템",
+    "classes": [],
+    "art": "art/REV_935t.png"
+  }
+}

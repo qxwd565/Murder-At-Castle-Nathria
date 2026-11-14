@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_017","dbfId":79602,"name":"집단 소송 변호사","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 내 덱에\n중립 카드가 없으면,\n하수인의 능력치를\n1/1로 만듭니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"\"당신이나 사랑하는 사람이 신성화 중에 다친 적이 있습니까?\"","spellSchool":"","portrait":"HS26-217_M.tif:1399e28e5bb94a0ebee3d0a6a4e53751","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/MAW_017.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-217_M.tif:1399e28e5bb94a0ebee3d0a6a4e53751","goldenMaterial":"MAW_017_PremiumCard.mat:042d6156667e2f4468a1a35ab0773918","goldenAnimation":"MAW_017_PremiumCard.asset:37be110478e7dc646bfee26dc56caea8"}}
+{
+  "2022-09-28": {
+    "id": "MAW_017",
+    "dbfId": 79602,
+    "name": "집단 소송 변호사",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 내 덱에<br></br>중립 카드가 없으면,<br></br>하수인의 능력치를<br></br>1/1로 만듭니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"당신이나 사랑하는 사람이 신성화 중에 다친 적이 있습니까?\"",
+    "spellSchool": "",
+    "portrait": "HS26-217_M.tif:1399e28e5bb94a0ebee3d0a6a4e53751",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/MAW_017.png"
+  }
+}

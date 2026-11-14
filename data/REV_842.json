@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_842","dbfId":79741,"name":"진급","type":"SPELL","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":1,"text":"은빛 성기사단 신병에게 +3/+3과 <b>도발</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"진급을 하면 휴가도 생기고, 월급도 오르고!","spellSchool":"","portrait":"HS26-144_S.tif:fcb44a67caa64598a73fa465ece44b69","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":1652}],"races":[],"race":"","classes":[],"art":"art/REV_842.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-144_S.tif:fcb44a67caa64598a73fa465ece44b69","goldenMaterial":"REV_842_PremiumCard.mat:8e4d9d4d52564b645a80043f58331610","goldenAnimation":"REV_842_PremiumCard.asset:d2980ddccf313724a9ee4f97df7b6cf9"}}
+{
+  "2022-08-03": {
+    "id": "REV_842",
+    "dbfId": 79741,
+    "name": "진급",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "은빛 성기사단 신병에게 +3/+3과 <b>도발</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "진급을 하면 휴가도 생기고, 월급도 오르고!",
+    "spellSchool": "",
+    "portrait": "HS26-144_S.tif:fcb44a67caa64598a73fa465ece44b69",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 1652
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_842.png"
+  }
+}

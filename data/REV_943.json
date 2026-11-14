@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_943","dbfId":77616,"name":"환영의 유물","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"1/1 영혼을 둘 소환합니다. 미래의 내 유물들을 개선합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"자이목스가 피식 웃었습니다. \"카오스 에메랄드요?\"","spellSchool":"","portrait":"HS26-110_S.tif:1ea6ed4cc589493b9eb34be5708036bb","set":"REVENDRETH","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":2431,"name":"게임 태그 2431","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_943.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-110_S.tif:1ea6ed4cc589493b9eb34be5708036bb","goldenMaterial":"REV_943_PremiumCard.mat:6772cfd23115c4c48a3d78a9f8beeabb","goldenAnimation":"REV_943_PremiumCard.asset:5106fc8cfde28b141a116d08e5fef7c0"}}
+{
+  "2022-08-03": {
+    "id": "REV_943",
+    "dbfId": 77616,
+    "name": "환영의 유물",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "1/1 영혼을 둘 소환합니다. 미래의 내 유물들을 개선합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "자이목스가 피식 웃었습니다. \"카오스 에메랄드요?\"",
+    "spellSchool": "",
+    "portrait": "HS26-110_S.tif:1ea6ed4cc589493b9eb34be5708036bb",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2431,
+        "name": "게임 태그 2431",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_943.png"
+  }
+}

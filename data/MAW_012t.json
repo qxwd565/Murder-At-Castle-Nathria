@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_012t","dbfId":79595,"name":"지옥 탈옥","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":false,"cost":5,"text":"<b>주입됨</b>\n이번 게임에서 죽은\n아군 악마 셋을 부활시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FEL","portrait":"HS26-201_S.tif:29f94aa3656244ec8acce00b89774536","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":1635,"name":"주문 속성","value":7},{"id":2457,"name":"주입 완료","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_012t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-201_S.tif:29f94aa3656244ec8acce00b89774536","goldenMaterial":"MAW_012t_PremiumCard.mat:70b6a0495051f7840a8f4574a8a61455","goldenAnimation":"MAW_012t_PremiumCard.asset:b2db1b2ba9b6d6645b23a37f25d1a7e3"}}
+{
+  "2022-09-28": {
+    "id": "MAW_012t",
+    "dbfId": 79595,
+    "name": "지옥 탈옥",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>주입됨</b><br></br>이번 게임에서 죽은<br></br>아군 악마 셋을 부활시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FEL",
+    "portrait": "HS26-201_S.tif:29f94aa3656244ec8acce00b89774536",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_012t.png"
+  }
+}

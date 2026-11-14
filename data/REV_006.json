@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_006","dbfId":75910,"name":"수상한 해적","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 무기를 <b>발견</b>합니다. 상대편은 내가 선택한 무기를 맞히면 그 무기를 복사하여 얻습니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"매일매일이 해적의 날이었으면 좋겠네요!","spellSchool":"","portrait":"HS26-063_M.tif:fca2e7bfa84c4b43b7f7bad09b75082b","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/REV_006.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-063_M.tif:fca2e7bfa84c4b43b7f7bad09b75082b","goldenMaterial":"REV_006_PremiumCard.mat:11d2618ea99804a4c961293b156cf9d8","goldenAnimation":"REV_006_PremiumCard.asset:d07637eb5980b554b96c6804209c41c4"}}
+{
+  "2022-08-03": {
+    "id": "REV_006",
+    "dbfId": 75910,
+    "name": "수상한 해적",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 무기를 <b>발견</b>합니다. 상대편은 내가 선택한 무기를 맞히면 그 무기를 복사하여 얻습니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "매일매일이 해적의 날이었으면 좋겠네요!",
+    "spellSchool": "",
+    "portrait": "HS26-063_M.tif:fca2e7bfa84c4b43b7f7bad09b75082b",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/REV_006.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_925","dbfId":76985,"name":"남작 바쉬","type":"MINION","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"이 하수인은 다른 하수인으로 변신하지 않고, 대신 그 하수인을 소환합니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"바쉬는 원래 \"가라앉은 도시\"에서 등장하기로 예정되어 있었지만, \"황폐한 아웃랜드\"에서 예기치 못한 일을 겪는 바람에 이곳에 오게 되었습니다.","spellSchool":"","portrait":"HS26-055_M.tif:44e88b39091042d6a0866a6873910745","set":"REVENDRETH","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/REV_925.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-055_M.tif:44e88b39091042d6a0866a6873910745","goldenMaterial":"REV_925_PremiumCard.mat:6dbecba02f5931e429640fb248646d49","goldenAnimation":"REV_925_PremiumCard.asset:ab02d1c7b480eb245a4442978df603ce"}}
+{
+  "2022-08-03": {
+    "id": "REV_925",
+    "dbfId": 76985,
+    "name": "남작 바쉬",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "이 하수인은 다른 하수인으로 변신하지 않고, 대신 그 하수인을 소환합니다.",
+    "attack": 3,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "바쉬는 원래 \"가라앉은 도시\"에서 등장하기로 예정되어 있었지만, \"황폐한 아웃랜드\"에서 예기치 못한 일을 겪는 바람에 이곳에 오게 되었습니다.",
+    "spellSchool": "",
+    "portrait": "HS26-055_M.tif:44e88b39091042d6a0866a6873910745",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/REV_925.png"
+  }
+}

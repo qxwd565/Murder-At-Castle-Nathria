@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_033t","dbfId":79781,"name":"피고인 실바나스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":false,"cost":6,"text":"<b>주입됨</b>\n<b>전투의 함성:</b> 적 하수인을 가져옵니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-240_M.tif:905537b21e514afa81c0ff1578a0b9ba","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":2457,"name":"주입 완료","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/MAW_033t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-240_M.tif:905537b21e514afa81c0ff1578a0b9ba","goldenMaterial":"MAW_033t_PremiumCard.mat:713a0895d1f99924786cb664b89e407e","goldenAnimation":"MAW_033t_PremiumCard.asset:c798cd773f5f020438b354247ea23a8e"}}
+{
+  "2022-09-28": {
+    "id": "MAW_033t",
+    "dbfId": 79781,
+    "name": "피고인 실바나스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>주입됨</b><br></br><b>전투의 함성:</b> 적 하수인을 가져옵니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-240_M.tif:905537b21e514afa81c0ff1578a0b9ba",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/MAW_033t.png"
+  }
+}

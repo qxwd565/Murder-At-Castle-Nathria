@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_934","dbfId":77313,"name":"학살자 올그라","type":"MINION","cardClass":"WARRIOR","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 피해를 받은 하수인 하나당 +1/+1을 얻고 모든 적을 공격합니다.","attack":3,"health":7,"durability":0,"armor":0,"flavor":"올그라, 찾았다!","spellSchool":"","portrait":"HS26-067_M.tif:3420d6ea18704ae8814496ee4323f7b5","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_934.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-067_M.tif:3420d6ea18704ae8814496ee4323f7b5","goldenMaterial":"REV_934_PremiumCard.mat:a75889fadded6ef4989cf8aea54cf546","goldenAnimation":"REV_934_PremiumCard.asset:6076b166d3c320f47a10e7878282687e"}}
+{
+  "2022-08-03": {
+    "id": "REV_934",
+    "dbfId": 77313,
+    "name": "학살자 올그라",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 피해를 받은 하수인 하나당 +1/+1을 얻고 모든 적을 공격합니다.",
+    "attack": 3,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "올그라, 찾았다!",
+    "spellSchool": "",
+    "portrait": "HS26-067_M.tif:3420d6ea18704ae8814496ee4323f7b5",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_934.png"
+  }
+}

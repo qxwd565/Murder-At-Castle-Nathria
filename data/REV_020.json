@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_020","dbfId":79992,"name":"만찬 공연자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 내 덱에서\n비용을 낼 수 있는 무작위\n하수인을 소환합니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"소울이 가득한 노래를 부릅니다.","spellSchool":"","portrait":"HS26-074_M.tif:5e91f0ea3c2c4a49934bbd33a14d3be7","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_020.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-074_M.tif:5e91f0ea3c2c4a49934bbd33a14d3be7","goldenMaterial":"REV_020_PremiumCard.mat:9b7e34323c0be8e418466e0f165effc4","goldenAnimation":"REV_020_PremiumCard.asset:52b99412220d81b4498a68dbc91fa902"}}
+{
+  "2022-08-03": {
+    "id": "REV_020",
+    "dbfId": 79992,
+    "name": "만찬 공연자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 내 덱에서<br></br>비용을 낼 수 있는 무작위<br></br>하수인을 소환합니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "소울이 가득한 노래를 부릅니다.",
+    "spellSchool": "",
+    "portrait": "HS26-074_M.tif:5e91f0ea3c2c4a49934bbd33a14d3be7",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_020.png"
+  }
+}

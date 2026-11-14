@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_936t","dbfId":79529,"name":"방치된 오물","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":4,"text":"<b>도발</b>","attack":3,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-160_M.tif:a5dcce61ad1042d59b2b3eee714d578e","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/REV_936t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-160_M.tif:a5dcce61ad1042d59b2b3eee714d578e","goldenMaterial":"REV_936t_PremiumCard.mat:bbcda2ba2d64b7e4c93c6376e02f9bd9","goldenAnimation":"REV_936t_PremiumCard.asset:7891e9b2a865f3c40acfa09f96400e6f"}}
+{
+  "2022-08-03": {
+    "id": "REV_936t",
+    "dbfId": 79529,
+    "name": "방치된 오물",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>도발</b>",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-160_M.tif:a5dcce61ad1042d59b2b3eee714d578e",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/REV_936t.png"
+  }
+}

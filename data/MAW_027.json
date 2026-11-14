@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_027","dbfId":79770,"name":"증인석으로","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":1,"text":"상대편이 손에서 무작위 하수인을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"증인은 착석하십시오.","spellSchool":"","portrait":"HS26-233_S.tif:25ae92062afd4577909a199c9e5756fc","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_027.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-233_S.tif:25ae92062afd4577909a199c9e5756fc","goldenMaterial":"MAW_027_PremiumCard.mat:2cab5da144447ce44b551c7a703b6986","goldenAnimation":"MAW_027_PremiumCard.asset:23072063738f8504e8456757694cc60c"}}
+{
+  "2022-09-28": {
+    "id": "MAW_027",
+    "dbfId": 79770,
+    "name": "증인석으로",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "상대편이 손에서 무작위 하수인을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "증인은 착석하십시오.",
+    "spellSchool": "",
+    "portrait": "HS26-233_S.tif:25ae92062afd4577909a199c9e5756fc",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_027.png"
+  }
+}

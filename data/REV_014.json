@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_014","dbfId":79562,"name":"빨간 청어","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>도발</b>, 빨간 청어가 아닌\n내 하수인들이 <b>은신</b>을 얻습니다.","attack":3,"health":12,"durability":0,"armor":0,"flavor":"이젠 불닭맛 청어인가요?","spellSchool":"","portrait":"HS26-082_M.tif:1911e84ac3ca4c64a3baa0295a4e7fa0","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":12},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/REV_014.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-082_M.tif:1911e84ac3ca4c64a3baa0295a4e7fa0","goldenMaterial":"REV_014_PremiumCard.mat:c0b7f31a1d0dc9b4a9225c5266ec67f5","goldenAnimation":"REV_014_PremiumCard.asset:14daf79f08b2e7040afea7c49d741d02"}}
+{
+  "2022-08-03": {
+    "id": "REV_014",
+    "dbfId": 79562,
+    "name": "빨간 청어",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b>, 빨간 청어가 아닌<br></br>내 하수인들이 <b>은신</b>을 얻습니다.",
+    "attack": 3,
+    "health": 12,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이젠 불닭맛 청어인가요?",
+    "spellSchool": "",
+    "portrait": "HS26-082_M.tif:1911e84ac3ca4c64a3baa0295a4e7fa0",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 12
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/REV_014.png"
+  }
+}

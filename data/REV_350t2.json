@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_350t2","dbfId":79832,"name":"광포한 송곳니","type":"SPELL","cardClass":"HUNTER","rarity":"COMMON","collectible":false,"cost":2,"text":"<b>주입됨</b>\n2/1 박쥐를 둘 소환하고 +1/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-127_S.tif:fd3a87b9afb2428cb819087d728ce0cd","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":2457,"name":"주입 완료","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_350t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-127_S.tif:fd3a87b9afb2428cb819087d728ce0cd","goldenMaterial":"REV_350t2_PremiumCard.mat:6d4182a6e19043541b91bca3c5838621","goldenAnimation":"REV_350t2_PremiumCard.asset:950fd1e0b05ab914984be2476ca794aa"}}
+{
+  "2022-08-03": {
+    "id": "REV_350t2",
+    "dbfId": 79832,
+    "name": "광포한 송곳니",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>주입됨</b><br></br>2/1 박쥐를 둘 소환하고 +1/+2를 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-127_S.tif:fd3a87b9afb2428cb819087d728ce0cd",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_350t2.png"
+  }
+}

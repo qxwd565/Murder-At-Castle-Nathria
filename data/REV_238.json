@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_238","dbfId":76984,"name":"미치광이 공작 테오타르","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 각 플레이어의 손에 있는 카드를 <b>발견</b>하고 바꿉니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"\"자네도 미쳐버린 게 틀림없네. 그것도 완전히! 하지만 내 비밀 하나를 알려주겠네. 최고의 벤티르는 다 미치광이라네.\"","spellSchool":"","portrait":"HS26-186_M.tif:b1decc09fc8e400ea2fa0a68a5f1cbfd","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":2057,"name":"게임 태그 2057","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_238.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-186_M.tif:b1decc09fc8e400ea2fa0a68a5f1cbfd","goldenMaterial":"REV_238_PremiumCard.mat:0f1eae763135fa343acc67a06ae15aac","goldenAnimation":"REV_238_PremiumCard.asset:589681a65afe49846bf55154e54290ed"}}
+{
+  "2022-08-03": {
+    "id": "REV_238",
+    "dbfId": 76984,
+    "name": "미치광이 공작 테오타르",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 각 플레이어의 손에 있는 카드를 <b>발견</b>하고 바꿉니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"자네도 미쳐버린 게 틀림없네. 그것도 완전히! 하지만 내 비밀 하나를 알려주겠네. 최고의 벤티르는 다 미치광이라네.\"",
+    "spellSchool": "",
+    "portrait": "HS26-186_M.tif:b1decc09fc8e400ea2fa0a68a5f1cbfd",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 2057,
+        "name": "게임 태그 2057",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_238.png"
+  }
+}

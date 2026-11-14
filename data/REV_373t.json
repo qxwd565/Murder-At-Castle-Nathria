@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_373t","dbfId":79311,"name":"암흑 현신","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":1,"text":"","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-171_M.tif:ba802ec7bfa44d1d8e7f02099147eec1","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/REV_373t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-171_M.tif:ba802ec7bfa44d1d8e7f02099147eec1","goldenMaterial":"REV_373t_PremiumCard.mat:bde8415fd1c37d043a3ffe18efe67177","goldenAnimation":"REV_373t_PremiumCard.asset:80157281410003c48aed87f86f6f39d5"}}
+{
+  "2022-08-03": {
+    "id": "REV_373t",
+    "dbfId": 79311,
+    "name": "암흑 현신",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-171_M.tif:ba802ec7bfa44d1d8e7f02099147eec1",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/REV_373t.png"
+  }
+}

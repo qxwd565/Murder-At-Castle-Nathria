@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_001","dbfId":79538,"name":"방화 고발","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"하수인을 선택합니다. 내 영웅이 피해를 받은 후에, 그 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"우리는 불 안 질렀다고!","spellSchool":"FIRE","portrait":"HS26-231_S.tif:26caf5f11bbe4a9a8f3db8ef5211330b","set":"REVENDRETH","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_001.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-231_S.tif:26caf5f11bbe4a9a8f3db8ef5211330b","goldenMaterial":"MAW_001_PremiumCard.mat:1f4dc54f13a937240a1a9af01d1a223a","goldenAnimation":"MAW_001_PremiumCard.asset:198b12f4b43c0bc429907ba5538d3f5c"}}
+{
+  "2022-09-28": {
+    "id": "MAW_001",
+    "dbfId": 79538,
+    "name": "방화 고발",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인을 선택합니다. 내 영웅이 피해를 받은 후에, 그 하수인을 처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "우리는 불 안 질렀다고!",
+    "spellSchool": "FIRE",
+    "portrait": "HS26-231_S.tif:26caf5f11bbe4a9a8f3db8ef5211330b",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_001.png"
+  }
+}

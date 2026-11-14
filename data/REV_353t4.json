@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_353t4","dbfId":79800,"name":"바르가스트","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":3,"text":"내 다른 하수인들이 공격력을 +1 얻습니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-133_M.tif:078e500483344edcb27fd5a0bb02df7c","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":362,"name":"지속 효과","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/REV_353t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-133_M.tif:078e500483344edcb27fd5a0bb02df7c","goldenMaterial":"REV_353t4_PremiumCard.mat:7dd55a2047c474746a6b34017e28a83f","goldenAnimation":"REV_353t4_PremiumCard.asset:228fc9f71a3026d4dad7378caacb2dd3"}}
+{
+  "2022-08-03": {
+    "id": "REV_353t4",
+    "dbfId": 79800,
+    "name": "바르가스트",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 3,
+    "text": "내 다른 하수인들이 공격력을 +1 얻습니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-133_M.tif:078e500483344edcb27fd5a0bb02df7c",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/REV_353t4.png"
+  }
+}

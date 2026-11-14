@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_937t","dbfId":84549,"name":"기술자 자이목스","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":false,"cost":8,"text":"<b>주입됨</b>\n<b>전투의 함성:</b> 유물 셋을 모두 시전합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-114_M.tif:ddb7e3308a6c4d9c8dfb8cf6953370db","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":2457,"name":"주입 완료","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_937t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-114_M.tif:ddb7e3308a6c4d9c8dfb8cf6953370db","goldenMaterial":"REV_937t_PremiumCard.mat:43d5dba60cf62ca4f8c83a6d716e6d2d","goldenAnimation":"REV_937t_PremiumCard.asset:b34d3e91d780bd443bb3ea62081bbae3"}}
+{
+  "2022-08-03": {
+    "id": "REV_937t",
+    "dbfId": 84549,
+    "name": "기술자 자이목스",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 8,
+    "text": "<b>주입됨</b><br></br><b>전투의 함성:</b> 유물 셋을 모두 시전합니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-114_M.tif:ddb7e3308a6c4d9c8dfb8cf6953370db",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 2457,
+        "name": "주입 완료",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_937t.png"
+  }
+}

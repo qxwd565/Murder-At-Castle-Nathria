@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_290","dbfId":82310,"name":"속죄의 성당 ","type":"LOCATION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":3,"text":"하수인에게 +2/+1을 부여하고 카드를 뽑습니다.","attack":0,"health":3,"durability":3,"armor":0,"flavor":"오늘도 정의로운 영혼이 되게 해 주세요.","spellSchool":"","portrait":"HS26-148_L.tif:8aad434e26eb44eebe9a6f7fb9c4e37d","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":39},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_290.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-148_L.tif:8aad434e26eb44eebe9a6f7fb9c4e37d","goldenMaterial":"REV_290_PremiumCard.mat:0c406438fc656774493db11e95675443","goldenAnimation":"REV_290_PremiumCard.asset:135af5e25c8ac6b4182090ef4f2c94ae"}}
+{
+  "2022-08-03": {
+    "id": "REV_290",
+    "dbfId": 82310,
+    "name": "속죄의 성당 ",
+    "type": "LOCATION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인에게 +2/+1을 부여하고 카드를 뽑습니다.",
+    "attack": 0,
+    "health": 3,
+    "durability": 3,
+    "armor": 0,
+    "flavor": "오늘도 정의로운 영혼이 되게 해 주세요.",
+    "spellSchool": "",
+    "portrait": "HS26-148_L.tif:8aad434e26eb44eebe9a6f7fb9c4e37d",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_290.png"
+  }
+}

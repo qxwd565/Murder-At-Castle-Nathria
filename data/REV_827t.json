@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_827t","dbfId":77153,"name":"무덤거미","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":3,"text":"<b>은신</b>","attack":3,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-046_M.tif:fc53072c83d746c8a806f34832511ba9","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/REV_827t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-046_M.tif:fc53072c83d746c8a806f34832511ba9","goldenMaterial":"REV_827t_PremiumCard.mat:a488ed959a6f26a429e5f8cf2cc2b87e","goldenAnimation":"REV_827t_PremiumCard.asset:e74f8df46f2ee394b923bec4cc8bff4b"}}
+{
+  "2022-08-03": {
+    "id": "REV_827t",
+    "dbfId": 77153,
+    "name": "무덤거미",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>은신</b>",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-046_M.tif:fc53072c83d746c8a806f34832511ba9",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/REV_827t.png"
+  }
+}

@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_951","dbfId":78086,"name":"백작","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 내 덱에\n중립 카드가 없으면,\n<b>전설</b> 초대장 3장을\n내 손으로 가져옵니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"한 번에 전설 3장 나왔는데 이거 좋은 건가요?","spellSchool":"","portrait":"HS26-037_M.tif:165b4b2ecd0b4cf395b4124df8a38ee8","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":79922}],"races":[],"race":"","classes":[],"art":"art/REV_951.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-037_M.tif:165b4b2ecd0b4cf395b4124df8a38ee8","goldenMaterial":"REV_951_PremiumCard.mat:e9465d14b869ba74295973eb939ede00","goldenAnimation":"REV_951_PremiumCard.asset:705edfc5439b96f4e9991739c5f609e8"}}
+{
+  "2022-08-03": {
+    "id": "REV_951",
+    "dbfId": 78086,
+    "name": "백작",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 내 덱에<br></br>중립 카드가 없으면,<br></br><b>전설</b> 초대장 3장을<br></br>내 손으로 가져옵니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한 번에 전설 3장 나왔는데 이거 좋은 건가요?",
+    "spellSchool": "",
+    "portrait": "HS26-037_M.tif:165b4b2ecd0b4cf395b4124df8a38ee8",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 79922
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_951.png"
+  }
+}

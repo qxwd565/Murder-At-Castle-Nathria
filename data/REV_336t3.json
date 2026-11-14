@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_336t3","dbfId":86214,"name":"고대정령","type":"MINION","cardClass":"DRUID","collectible":false,"cost":5,"text":"","attack":5,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-119_M.tif:67e3cb2aaf314bf09fbbfefaaf84baa3","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":2871,"name":"게임 태그 2871","value":1}],"races":[],"race":"","classes":[],"art":"art/REV_336t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-119_M.tif:67e3cb2aaf314bf09fbbfefaaf84baa3","goldenMaterial":"REV_336t3_PremiumCard.mat:2d20e0b6a35d1e84aa6f21ea869681ff","goldenAnimation":"REV_336t3_PremiumCard.asset:4149dd28ee6954749ac30bd41746b9c6"}}
+{
+  "2022-08-03": {
+    "id": "REV_336t3",
+    "dbfId": 86214,
+    "name": "고대정령",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 5,
+    "text": "",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-119_M.tif:67e3cb2aaf314bf09fbbfefaaf84baa3",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2871,
+        "name": "게임 태그 2871",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/REV_336t3.png"
+  }
+}

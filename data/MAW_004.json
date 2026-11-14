@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"MAW_004","dbfId":79546,"name":"영혼 추적자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 이 하수인을 상대편의 덱에 있는 무작위 하수인과 교체합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"영혼추적자의 임무는 밀고자를 찾는 것입니다.","spellSchool":"","portrait":"HS26-227_M.tif:53a33ea98f3f43318bb6b7e7ccec6665","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/MAW_004.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-227_M.tif:53a33ea98f3f43318bb6b7e7ccec6665","goldenMaterial":"MAW_004_PremiumCard.mat:031c480292863d34aa188199bb264753","goldenAnimation":"MAW_004_PremiumCard.asset:f4fbec6910273cf4caef4281009d9803"}}
+{
+  "2022-09-28": {
+    "id": "MAW_004",
+    "dbfId": 79546,
+    "name": "영혼 추적자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 이 하수인을 상대편의 덱에 있는 무작위 하수인과 교체합니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "영혼추적자의 임무는 밀고자를 찾는 것입니다.",
+    "spellSchool": "",
+    "portrait": "HS26-227_M.tif:53a33ea98f3f43318bb6b7e7ccec6665",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/MAW_004.png"
+  }
+}

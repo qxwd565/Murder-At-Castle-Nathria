@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"REV_314t","dbfId":77703,"name":"새끼덤불용","type":"MINION","cardClass":"DRUID","collectible":false,"cost":3,"text":"<b>속공</b>","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS26-124_M.tif:71029680290b40eb9ab60383a9dfd022","set":"REVENDRETH","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":330,"name":"효과 생성 시각 효과","value":1},{"id":331,"name":"효과 지속 시각 효과","value":1},{"id":791,"name":"속공","value":1},{"id":2355,"name":"새끼용","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/REV_314t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS26-124_M.tif:71029680290b40eb9ab60383a9dfd022","goldenMaterial":"REV_314t_PremiumCard.mat:a70f72598560b9e47a74daff1e6ee5f5","goldenAnimation":"REV_314t_PremiumCard.asset:9b61155fd92126144b944fdbf27c821c"}}
+{
+  "2022-08-03": {
+    "id": "REV_314t",
+    "dbfId": 77703,
+    "name": "새끼덤불용",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>속공</b>",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS26-124_M.tif:71029680290b40eb9ab60383a9dfd022",
+    "set": "REVENDRETH",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2355,
+        "name": "새끼용",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "classes": [],
+    "art": "art/REV_314t.png"
+  }
+}
