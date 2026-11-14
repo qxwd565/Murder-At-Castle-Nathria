@@ -11,57 +11,6 @@
     "text": "<b>모든</b> 하수인의 비용이<br></br>(2) 증가합니다.",
     "attack": 5,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "진흙 마시지 마세요. 마시면 나락 간답니다.",
-    "spellSchool": "",
-    "portrait": "HS26-079_M.tif:87cca8de188544a7b62b440c3489baf4",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 362,
-        "name": "지속 효과",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_837.png"
+    "classes": []
   }
 }

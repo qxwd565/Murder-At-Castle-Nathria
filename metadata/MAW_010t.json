@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MAW_010t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-09-28",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-09-28": {
+        "flavor": "",
+        "portrait": "HS26-209_S.tif:7fe18ddca1db4ac9baafa90606418ecd",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 219,
+            "name": "비밀",
+            "value": 1
+          }
+        ],
+        "art": "art/MAW_010t.png"
+      }
+    }
+  }
+}

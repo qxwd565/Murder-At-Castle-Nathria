@@ -11,67 +11,6 @@
     "text": "내 턴마다 세 번째로 내는 하수인들의 비용이 (0)이 됩니다.",
     "attack": 4,
     "health": 7,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "캘타스 소식 들었어? 대박.",
-    "spellSchool": "",
-    "portrait": "HS26-097_M.tif:0ae50c18fb2a4423852f620179dee693",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 7
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 362,
-        "name": "지속 효과",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_021.png"
+    "classes": []
   }
 }

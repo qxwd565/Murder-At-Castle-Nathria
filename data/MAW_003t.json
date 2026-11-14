@@ -9,44 +9,6 @@
     "collectible": false,
     "cost": 1,
     "text": "<b>주입됨</b><br></br>기본 토템 넷을 모두 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS26-226_S.tif:5fda652229964c01a9cf64e9bda11abc",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 2457,
-        "name": "주입 완료",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_003t.png"
+    "classes": []
   }
 }

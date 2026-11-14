@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MAW_003",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-09-28",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-09-28": {
+        "flavor": "모든 토템은 나무를 죽였다는 증거입니다.",
+        "portrait": "HS26-225_S.tif:50684cb97df34af9943c3df95c2689e6",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 2
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2449,
+            "name": "게임 태그 2449",
+            "value": 1
+          },
+          {
+            "id": 2456,
+            "name": "주입",
+            "value": 1
+          }
+        ],
+        "art": "art/MAW_003.png"
+      }
+    }
+  }
+}

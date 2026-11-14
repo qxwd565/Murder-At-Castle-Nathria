@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "REV_957t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-08-03",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-08-03": {
+        "flavor": "",
+        "portrait": "HS26-077_M.tif:fb56bbed492a4d2da9b94ce5fa3e4db8",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 2457,
+            "name": "주입 완료",
+            "value": 1
+          },
+          {
+            "id": 2534,
+            "name": "게임 태그 2534",
+            "value": 1
+          }
+        ],
+        "art": "art/REV_957t.png"
+      }
+    }
+  }
+}

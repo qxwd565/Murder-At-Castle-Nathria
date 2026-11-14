@@ -10,58 +10,7 @@
     "cost": 3,
     "text": "내 영웅이 공격한 후에, 내 카드가 3장이<br></br>될 때까지 카드를 뽑습니다.",
     "attack": 3,
-    "health": 0,
     "durability": 2,
-    "armor": 0,
-    "flavor": "이제 아무리 작은 대상이라도 복수할 수 있을 겁니다!",
-    "spellSchool": "",
-    "portrait": "HS26-003_W.tif:2da8df482f8e498d969aa2d9ee182803",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_509.png"
+    "classes": []
   }
 }

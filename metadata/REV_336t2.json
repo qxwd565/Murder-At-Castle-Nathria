@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "REV_336t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-08-03",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-08-03": {
+        "flavor": "",
+        "portrait": "HS26-117_M.tif:13ec97aa9c994389ab3f72a6d7c49a87",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 6
+          },
+          {
+            "id": 2831,
+            "name": "게임 태그 2831",
+            "value": 1
+          }
+        ],
+        "art": "art/REV_336t2.png"
+      }
+    }
+  }
+}

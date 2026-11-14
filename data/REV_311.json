@@ -9,64 +9,7 @@
     "collectible": true,
     "cost": 8,
     "text": "<b>선택 -</b> 내 덱에서 하수인을 <b>발견</b>하여 소환합니다. 또는 내 덱에서 주문을 <b>발견</b>하여 시전합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "햇빛과 달빛을 같이 받아야 잘 자란다고 합니다.",
     "spellSchool": "NATURE",
-    "portrait": "HS26-010_S.tif:97f73e69933d4aa19a3a61f80942ee22",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 443,
-        "name": "선택",
-        "value": 1
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_311.png"
+    "classes": []
   }
 }

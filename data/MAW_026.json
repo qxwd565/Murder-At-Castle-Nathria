@@ -9,54 +9,6 @@
     "collectible": true,
     "cost": 3,
     "text": "하수인을 선택합니다.<br></br>그 하수인은 3턴 동안<br></br><b>휴면</b> 상태가 됩니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "당신은 블리자드 감옥행입니다!",
-    "spellSchool": "",
-    "portrait": "HS26-208_S.tif:2fa56736f3f643deabfaec4c01195444",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_026.png"
+    "classes": []
   }
 }

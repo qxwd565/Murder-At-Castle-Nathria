@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 4,
     "text": "이번 게임 동안<br></br>각 플레이어가 자신의 턴이 시작될 때, 카드를 1장 더 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "이슬이 되기 위한 절차의 일부입니다.",
     "spellSchool": "NATURE",
-    "portrait": "HS26-204_S.tif:1bc52050e6ce47c094c7a9fa5baff26b",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_024.png"
+    "classes": []
   }
 }

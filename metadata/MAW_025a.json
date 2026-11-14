@@ -1,0 +1,42 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "MAW_025a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-09-28",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-09-28": {
+        "flavor": "",
+        "portrait": "HS26-206_S.tif:f9fdf6f721c14ec9a5cdae391ecf01e3",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 339,
+            "name": "침묵",
+            "value": 1
+          }
+        ],
+        "art": "art/MAW_025a.png"
+      }
+    }
+  }
+}

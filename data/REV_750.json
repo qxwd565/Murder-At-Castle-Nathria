@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "1/1 유령을 소환합니다.<br></br><i>(이번 턴에 낸 다른 카드의<br></br>수만큼 +1/+1을 얻습니다.)</i>",
-    "attack": 0,
-    "health": 2,
     "durability": 2,
-    "armor": 0,
-    "flavor": "사후 세계에도 무덤이 있다니. 두 번 죽을 수도 있나 보군요.",
-    "spellSchool": "",
-    "portrait": "HS26-153_L.tif:c6aaf6d09aa5488a806e8cf83404d422",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 82371
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_750.png"
+    "classes": []
   }
 }

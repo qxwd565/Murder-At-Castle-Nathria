@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 2,
     "text": "이번 턴에 내는<br></br>내 다음 유물을 2번 시전합니다.",
-    "attack": 0,
-    "health": 2,
     "durability": 2,
-    "armor": 0,
-    "flavor": "대영주 데나트리우스가 가장 아끼는 토끼 인형을 보관하고 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS26-109_L.tif:9fc9308b64da4bb4a5106270ffc78556",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_942.png"
+    "classes": []
   }
 }

@@ -9,54 +9,6 @@
     "collectible": true,
     "cost": 3,
     "text": "내 덱에서<br></br>직업 카드를 <b>발견</b>하고<br></br>그 카드와 동일한 모든<br></br>카드를 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "여기요! 물 좀 더 주세요!",
-    "spellSchool": "",
-    "portrait": "HS26-033_S.tif:564fe70c3eb04b6797e81ec6424d3c3a",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_948.png"
+    "classes": []
   }
 }

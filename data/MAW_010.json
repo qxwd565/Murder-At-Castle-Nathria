@@ -9,54 +9,6 @@
     "collectible": true,
     "cost": 2,
     "text": "<b>비밀:</b> 상대편이<br></br>한 턴에 카드를 3장<br></br>낸 후에, 적 영웅에게 피해를 $6 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "출발점 통과도, 200골드 수입도 불허합니다.",
-    "spellSchool": "",
-    "portrait": "HS26-209_S.tif:7fe18ddca1db4ac9baafa90606418ecd",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_010.png"
+    "classes": []
   }
 }

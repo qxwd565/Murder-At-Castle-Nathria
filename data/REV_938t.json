@@ -9,54 +9,7 @@
     "collectible": false,
     "cost": 1,
     "text": "<b>주입됨</b>, 주문을 뽑습니다. 그 카드를 <b>일시적</b>인 카드로 복사하여 내 손으로 가져옵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
     "spellSchool": "SHADOW",
-    "portrait": "HS26-156_S.tif:704e4d261b1646599364c9905218b29e",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 2457,
-        "name": "주입 완료",
-        "value": 1
-      },
-      {
-        "id": 3630,
-        "name": "게임 태그 3630",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_938t.png"
+    "classes": []
   }
 }

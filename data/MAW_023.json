@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 1,
     "text": "하수인을 선택합니다. 내가 복사해온 상대편의 카드를 낸 후에, 그 하수인을 처치합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "네가 내 바지를 가져갔지?",
     "spellSchool": "SHADOW",
-    "portrait": "HS26-221_S.tif:467905c4d6f840b9b2d72adfdf8cd515",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_023.png"
+    "classes": []
   }
 }

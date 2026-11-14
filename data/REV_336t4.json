@@ -9,49 +9,7 @@
     "collectible": false,
     "cost": 3,
     "text": "<b>주입됨</b><br></br>5/5 고대정령을 둘 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
     "spellSchool": "NATURE",
-    "portrait": "HS26-118_S.tif:ab20730ce77349549141abea85d9fe01",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 2457,
-        "name": "주입 완료",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_336t4.png"
+    "classes": []
   }
 }

@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 3,
     "text": "<b>비밀:</b> 적 하수인이<br></br>내 영웅을 공격한 후에,<br></br>적 영웅을 즉시 공격하는<br></br>그 하수인을 복사하여 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "확실한 거울치료를 보장합니다.",
-    "spellSchool": "",
-    "portrait": "HS26-141_S.tif:aad2c7e5393d4a25b7cb02253d49a1e4",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_516.png"
+    "classes": []
   }
 }

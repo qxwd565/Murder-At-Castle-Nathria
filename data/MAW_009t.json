@@ -11,69 +11,10 @@
     "text": "<b>주입됨</b><br></br><b>속공</b>, 이 하수인이 공격할 때마다 내 다른 야수들에게 +2/+2를 부여합니다.",
     "attack": 6,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS26-211_M.tif:4c0e720b7e21452894834c3734dc0a54",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 2457,
-        "name": "주입 완료",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/MAW_009t.png"
+    "classes": []
   }
 }

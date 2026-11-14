@@ -9,44 +9,6 @@
     "collectible": false,
     "cost": 1,
     "text": "<b>주입됨</b><br></br>모든 아군 하수인을<br></br>비용이 (2) 높은 무작위 하수인으로 변신시킵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS26-163_S.tif:1da15dbe1163419580fc2f4b6c1cab18",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 2457,
-        "name": "주입 완료",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_920t.png"
+    "classes": []
   }
 }

@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "이 카드를 내거나 버릴 때, 무작위 적 하수인을 처치합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"독서는 정신 건강에 좋아\"라고 했던 사람 앞으로.",
     "spellSchool": "SHADOW",
-    "portrait": "HS26-167_S.tif:df6476a38545417e8418f7b3c4e25b13",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 335,
-        "name": "게임 태그 335",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_239.png"
+    "classes": []
   }
 }

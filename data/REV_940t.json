@@ -9,48 +9,7 @@
     "cost": 1,
     "text": "",
     "attack": 1,
-    "health": 0,
     "durability": 3,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS26-158_W.tif:75f8ba6fa5c343fba3034383d2c4ca56",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_940t.png"
+    "classes": []
   }
 }

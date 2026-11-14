@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 7,
     "text": "아군 하수인들에게 +2/+2를 부여하거나<br></br>적 하수인들에게 피해를 $2씩 주는 광선 5개를 무작위 하수인들에게 발사합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "어떤 종소리인지 듣기만 해서는 구분할 수 없습니다.",
     "spellSchool": "HOLY",
-    "portrait": "HS26-034_S.tif:245b4e635ff64b86b219a9f2a35b2523",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_950.png"
+    "classes": []
   }
 }

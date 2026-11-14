@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "REV_336",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-08-03",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-08-03": {
+        "flavor": "정말 멋진 정원이에요. 하지만 여기저기 구멍이 나 있군요.",
+        "portrait": "HS26-116_S.tif:6a67ed8da0184e5986e420d00577d49c",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 2
+          },
+          {
+            "id": 2456,
+            "name": "주입",
+            "value": 1
+          }
+        ],
+        "art": "art/REV_336.png"
+      }
+    }
+  }
+}

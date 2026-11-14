@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "REV_957",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-08-03",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-08-03": {
+        "flavor": "멀로큘라 최고의 장면은 \"아옳옳옳!\" 하면서 그 녀석들을 아옳해버리는 장면이지요.",
+        "portrait": "HS26-076_M.tif:a65542c5b457417da38b628ba726e30b",
+        "set": "REVENDRETH",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 4
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 79536
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 2
+          },
+          {
+            "id": 2456,
+            "name": "주입",
+            "value": 1
+          },
+          {
+            "id": 2534,
+            "name": "게임 태그 2534",
+            "value": 1
+          }
+        ],
+        "art": "art/REV_957.png"
+      }
+    }
+  }
+}

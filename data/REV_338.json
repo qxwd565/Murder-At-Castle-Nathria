@@ -11,57 +11,6 @@
     "text": "<b>전투의 함성:</b> 내 손에 있는 하수인들에게 생명력을 +1 부여합니다.",
     "attack": 1,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "허드레꾼 고용인이 허드레꾼 칼을 들고 말했습니다. \"허드레꾼, 대영주님께 충성합니다!\"",
-    "spellSchool": "",
-    "portrait": "HS26-070_M.tif:3ccda7a1560d417f996b9fd122b982c7",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_338.png"
+    "classes": []
   }
 }

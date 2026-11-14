@@ -11,64 +11,10 @@
     "text": "<b>죽음의 메아리:</b><br></br>무작위 적에게<br></br>피해를 2 줍니다.",
     "attack": 2,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "진짜 같은 얼음 조각상이네요.",
-    "spellSchool": "",
-    "portrait": "HS26-178_M.tif:4d2c10fe177042bda583894fade52396",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD"
     ],
     "race": "언데드",
-    "classes": [],
-    "art": "art/REV_845.png"
+    "classes": []
   }
 }

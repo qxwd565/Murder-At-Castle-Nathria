@@ -11,74 +11,10 @@
     "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>상대편의 손에서 무작위<br></br>카드를 둘 복사하여<br></br>내 손으로 가져옵니다.",
     "attack": 2,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "좋은 소식입니다. 카자쿠스의 진짜 정체를 알고 있답니다! 나쁜 소식: 카자쿠스가 여기 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS26-220_M.tif:0b9e416299a14b4b8cbb796c7a6ca59d",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
     "races": [
       "DRAGON"
     ],
     "race": "용족",
-    "classes": [],
-    "art": "art/MAW_022.png"
+    "classes": []
   }
 }

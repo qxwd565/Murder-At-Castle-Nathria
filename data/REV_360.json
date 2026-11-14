@@ -11,62 +11,6 @@
     "text": "<b>전투의 함성:</b> <b>휴면</b> 상태인 무작위 야생씨앗을 소환합니다.",
     "attack": 2,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "밀렵 활동은 정해진 영혼 보존 구역에서만 해야 합니다.",
-    "spellSchool": "",
-    "portrait": "HS26-017_M.tif:4d809f69ce8d44198231cb2846f64ad7",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_360.png"
+    "classes": []
   }
 }

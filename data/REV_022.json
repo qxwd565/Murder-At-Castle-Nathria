@@ -11,74 +11,10 @@
     "text": "<b>전투의 함성:</b> 상대편의<br></br>카드들에 대한 단서 3개를<br></br>풀면, 그 카드들을 복사하여<br></br>내 손으로 가져옵니다.",
     "attack": 3,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "불개굴한 것을 제외하고 남은 것은 아무리 아옳이 되지 않더라도 진실일 수밖에 없지옳.",
-    "spellSchool": "",
-    "portrait": "HS26-101_M.tif:2924afd12fd2493a9f635aa424627aa3",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1932,
-        "name": "다이아몬드 카드 존재",
-        "value": 1
-      }
-    ],
     "races": [
       "MURLOC"
     ],
     "race": "멀록",
-    "classes": [],
-    "art": "art/REV_022.png"
+    "classes": []
   }
 }

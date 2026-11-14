@@ -8,39 +8,6 @@
     "collectible": false,
     "cost": 2,
     "text": "하수인을 <b>침묵</b>시킵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS26-206_S.tif:f9fdf6f721c14ec9a5cdae391ecf01e3",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 339,
-        "name": "침묵",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_025a.png"
+    "classes": []
   }
 }

@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "아군 하수인에게 +2/+3과 \"상대편의 턴에 <b>모면</b> 상태가 됨\" 능력을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "양심에 따라 숨김과 보탬이 없이 버프 그대로를 주고 만일 제대로 주지 않으면 위증의 벌을 받기로 맹세합니다.",
     "spellSchool": "HOLY",
-    "portrait": "HS26-219_S.tif:071c9dd62b7d492db14b71fe9a32a033",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1211,
-        "name": "모면",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/MAW_021.png"
+    "classes": []
   }
 }

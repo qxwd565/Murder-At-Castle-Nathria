@@ -10,70 +10,11 @@
     "text": "<b>도발</b>, 2턴 동안 <b>휴면</b> 상태입니다.",
     "attack": 2,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS26-024_M.tif:f9719fc3d0424f78a2094e84a5f20a60",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      },
-      {
-        "id": 1652,
-        "name": "게임 태그 1652",
-        "value": 1
-      },
-      {
-        "id": 2534,
-        "name": "게임 태그 2534",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD",
       "BEAST"
     ],
     "race": "언데드, 야수",
-    "classes": [],
-    "art": "art/REV_360t1.png"
+    "classes": []
   }
 }

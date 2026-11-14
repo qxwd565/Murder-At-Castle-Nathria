@@ -9,54 +9,7 @@
     "collectible": false,
     "cost": 5,
     "text": "<b>주입됨</b><br></br>공격력이 6 이하인 <b>모든</b> 하수인을 처치합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
     "spellSchool": "HOLY",
-    "portrait": "HS26-150_S.tif:59f1b66c318a477aa50258b87a2f6cc9",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      },
-      {
-        "id": 2457,
-        "name": "주입 완료",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_252t.png"
+    "classes": []
   }
 }

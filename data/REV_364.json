@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 3,
     "text": "피해를 $3 줍니다. <b>휴면</b> 상태인 무작위 야생씨앗을 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "사슴이 나타났다!",
-    "spellSchool": "",
-    "portrait": "HS26-128_S.tif:b2fcf02527c74e0197725cb1517a48e1",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_364.png"
+    "classes": []
   }
 }

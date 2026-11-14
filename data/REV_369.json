@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 8,
     "text": "무작위 적 하수인 셋에게 피해를 $6 줍니다. 초과한 피해량만큼 적 영웅에게 피해를 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "왜 나만 명치딜 세게 맞을 것 같죠?",
-    "spellSchool": "",
-    "portrait": "HS26-125_S.tif:d8925c9cd3d7498d81b061f487ba167a",
-    "set": "REVENDRETH",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 349,
-        "name": "게임 태그 349",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/REV_369.png"
+    "classes": []
   }
 }
