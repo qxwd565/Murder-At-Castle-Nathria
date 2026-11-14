@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "REV": {
+      "date": "2022-08-03",
+      "status": "verified"
+    },
+    "MAW": {
+      "date": "2022-09-28",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "REV_018": {
+      "date": "2022-06-28",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "REV": "https://www.inven.co.kr/webzine/news/?news=273434&site=hs",
+    "MAW": "https://m.inven.co.kr/webzine/wznews.php?idx=276775",
+    "REV_018": "https://m.inven.co.kr/webzine/wznews.php?idx=273727"
+  }
+}
